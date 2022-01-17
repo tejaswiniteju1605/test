@@ -11,7 +11,7 @@ const Header = () => {
         Search
       </Link>
       <Link href="/dropdown" className="item">
-        Dropdown
+        Dropdowns
       </Link>
       <Link href="/translate" className="item">
         Translate
